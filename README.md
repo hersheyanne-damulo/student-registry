@@ -1,9 +1,9 @@
 # Student Registry System
 
 ## Project Description
-A modular, console-based Student Registry application developed in C. It manages student academic records (ID, Name, Major, GPA, and Credits) with built-in file persistence so that data is safely loaded on startup and saved upon exiting.
+The Student Registry System is a modular, console-based application developed in C. It is designed to manage academic student records efficiently, tracking essential details such as student IDs, full names, academic majors, Grade Point Average (GPA), and earned credits. The program incorporates built-in file persistence, ensuring that all records are automatically loaded upon startup and safely written to disk when exiting the application.
 
 ## How to Compile
-You can compile the project using the Makefile via terminal:
+You can compile the project using the provided `Makefile` via your terminal:
 ```bash
 make
