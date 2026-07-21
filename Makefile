@@ -14,4 +14,3 @@ student_registry.o: student_registry.c student_registry.h
 
 clean:
 	rm -f *.o student_registry student_registry.exe
-Add Makefile
